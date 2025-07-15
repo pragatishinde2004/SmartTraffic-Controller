@@ -12,4 +12,4 @@ A Python-based intelligent traffic management system using YOLOv3 and OpenCV to 
 
 1. Clone this repo.
 2. Install dependencies:requirements.txt
-3.Execute
+3. Execute
